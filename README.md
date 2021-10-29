@@ -8,6 +8,7 @@ This website can be logged into and used as a book search and save platform, you
 * [License](#license)
 * [Contributing](#contributing)
 * [Questions](#questions)
+* [Screenshots](#screenshots)
 # Installation
 The following necessary dependencies must be installed to run the application properly: Apollo-client, nodemon, mongoose,  bootstrap, react, bcrypt, googlebooks API, and graphQL
 # License
@@ -31,4 +32,8 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR TH
 # Contributions
 ​Contributors: Jacob Nordan
 # Questions
-If you have any questions about the repository contact Jacob Nordan directly at : jacob.nordan113322@g,ail.com.
+If you have any questions about the repository contact Jacob Nordan directly at : jacob.nordan113322@gmail.com
+# Screenshots
+![BS1](https://user-images.githubusercontent.com/81433664/139478009-eee7c598-c7ca-4023-9964-a38986f4c52e.jpg)
+![BS2](https://user-images.githubusercontent.com/81433664/139478019-c38d5d9e-14c0-4d1f-ace9-75c00d446240.jpg)
+![BS3](https://user-images.githubusercontent.com/81433664/139478025-73d63afa-83af-47ff-8ae1-8ee61737ac97.jpg)
