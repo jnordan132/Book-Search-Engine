@@ -1,5 +1,6 @@
 # Book Search Engine
-https://github.com/jnordan132/Book Search Engine
+[Repo](https://github.com/jnordan132/Book-Search-Engine)\
+[Live URL](https://mern-book-search-google-api.herokuapp.com/)
 # Description
 This website can be logged into and used as a book search and save platform, you can find books that you like and add them to a "my saved books" section, you can also delete them from this section whenever you would like.
 # Table of Contents 
